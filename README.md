@@ -1,6 +1,6 @@
 # A little bit about me!
 
-Hello! I'm Avery Bong, a recent graduate from UC Berkeley in 2023. As a Data Science major concentrating in Business/Industrial Analytics, I've pursued hands-on projects to enhance my skills in data analysis and problem-solving. You can explore some of my projects [here](https://github.com/ajb283/Projects/blob/main/README.md) to get a sense of my work! 
+Hello! I'm Avery Bong, a recent graduate from UC Berkeley in 2023. As a Data Science major concentrating in Business/Industrial Analytics, I've pursued hands-on projects to enhance my skills in data analysis and problem-solving. You can explore some of my projects [here](https://github.com/ajb283/Projects/blob/main/README.md) to get a sense of my expertise! 
 
 ## Skills:
 **Programming Languages**: 
